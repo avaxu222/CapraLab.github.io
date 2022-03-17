@@ -1,19 +1,23 @@
 ---
-title: Fraser Lab
+title: Capra Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Capra Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+Evolutionary and Computational Genomics at UCSF
 {: .welcomefont}
 
-![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+![Capra lab logo](static/img/logos/capralab_logo.jpg){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+We use the tools of computer science and statistics to address problems in genetics, evolution, and biomedicine. For a summary of our major research foci, see Research.
+
+Our group is located in the Bakar Computational Health Sciences Institute and the Department of Epidemiology and Biostatistics at the University of California, San Francisco. Prior to coming to UCSF, I spent 7 wonderful years at Vanderbilt University.
+
+Humans differ from one another and our closest living relatives, the chimpanzees, in a wide range of traits, including our susceptibility to many diseases. We model the evolutionary processes that have produced these novel traits and develop algorithms that compare genomes to predict the functional relevance of specific genetic differences between individuals and species.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We are located in the Bakar Computational Health Sciences Institute and Department of Epidemiology and Biostatistics at UCSF!
 {: .welcomefont}
