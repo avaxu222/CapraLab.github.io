@@ -20,7 +20,7 @@ We have three specific research foci.
 
 </div>
 
-<div class="row">
+<!-- <div class="row"> -->
 
 <!-- ### Identifying hidden alternative conformations of proteins and ligands in biophysical data
 
@@ -39,8 +39,8 @@ These methods development efforts are central to discovering new allosteric liga
 <img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
-</div>
-</div>
+<!-- </div>
+<!-- </div>
 <div class="row">
 
 ### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
@@ -50,7 +50,7 @@ These methods development efforts are central to discovering new allosteric liga
 We recognized that the standard practice of cryocooling crystals could distort protein conformations.
 In both larger surveys and isolated mechanistic studies, we have demonstrated the value of room temperature data collection for revealing the structural basis of protein conformational dynamics, leading to new insights into enzymes, and increasing connections to dynamics studies from NMR and simulations.
 Additionally, we have identified how temperature can bias small molecule discovery, leading some fragment sites inaccessible at cryogenic temperatures and repositioning critical water molecules.
-</div>
+</div> -->
 
 <div class="col-md-5 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
@@ -100,4 +100,4 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 <img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
 </div>
 
-</div> -->
+</div> --> -->
