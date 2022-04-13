@@ -13,7 +13,7 @@ scholar: 59gkka0AAAAJ #Google Scholar User ID
 website: https://website.com/
 UCSF: XXXXXXXX #UCSF Profile ID - Employees only
 twitter: 
-linkedin: souhridm
+linkedin: souhrid-mukherjee-bb550872
 github: souhridm
 orcid: 0000-0002-8355-3000
 description: "Souhrid is a graduate student in the Biological Science program. He has been working on personalized structural biology, machine learning and rare diseases. He holds a B.S and M.S in Biochemistry, from the University of Calcutta, India."
