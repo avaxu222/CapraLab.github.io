@@ -11,9 +11,9 @@ The main goals of our research program are to understand how evolutionary proces
 
 We address these questions by applying algorithms and statistical models to ancient and modern genomes. We integrate large-scale genome-wide genotype and phenotype data, including electronic health record data. We also collaborate closely with clinicians and disease-focused biologists, in particular in the Undiagnosed Diseases Network and the March of Dimes Prematurity Research Center.
 
-We have three specific research foci.
-  Modeling the genetics of recent human evolution and disease
-  Using machine learning to interpret gene regulatory “programs” encoded in genomes
-  Integrating population genetics and structural biology to enable personalized exome interpretation
+We have three specific research foci: <br>
+  Modeling the genetics of recent human evolution and disease<br>
+  Using machine learning to interpret gene regulatory “programs” encoded in genomes<br>
+  Integrating population genetics and structural biology to enable personalized exome interpretation<br>
 <br>
 <br>
