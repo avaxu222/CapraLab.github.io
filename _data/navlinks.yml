@@ -13,6 +13,10 @@
 - name: publications
   link: "/publications"
   group: publications
+
+- name: software
+  link: "/software"
+  group: software
   
 - name: news
   link: "/news"
