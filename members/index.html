@@ -11,9 +11,9 @@ group: members
 
 {% for member in site.members %}
 
-<!-- {% unless member.enddate == empty %}
+{% unless member.enddate == empty %}
 {% continue %}
-{% endunless %} -->
+{% endunless %}
 
 {% if member.position contains "Affiliate" %}
 {% continue %}
