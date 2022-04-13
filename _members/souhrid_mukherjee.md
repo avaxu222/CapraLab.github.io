@@ -3,7 +3,7 @@ name: Souhrid Mukherjee
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2017-05-01]
 enddate: [2022-09-01]
-image: /Users/souhrid/capralab_website/CapraLab.github.io/static/img/member_photos/grad/current/Souhrid/mukherjee_souhrid.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/member_photos/grad/current/Souhrid/mukherjee_souhrid.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Graduate student
 #subsequent:  update once you become an alumnus
@@ -12,7 +12,7 @@ email: souhrid [dot] mukherjee [at] vanderbilt [dot] edu  #Preferred public emai
 scholar: 59gkka0AAAAJ #Google Scholar User ID
 website: https://website.com/
 UCSF: XXXXXXXX #UCSF Profile ID - Employees only
-twitter: username
+twitter: 
 linkedin: souhridm
 github: souhridm
 orcid: 0000-0002-8355-3000
