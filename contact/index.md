@@ -6,13 +6,12 @@ group: contact
 
 # Contact the Capra Lab
 
-
 <div class="row">
 
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  [Bakar Computational Health Sciences Institute] (https://bakarinstitute.ucsf.edu/) and the [Department of Epidemiology and Biostatistics] (https://epibiostat.ucsf.edu/) at the [University of California, San Francisco] (http://www.ucsf.edu/).
+  [Bakar Computational Health Sciences Institute](https://bakarinstitute.ucsf.edu/) and the [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu/) at the [University of California, San Francisco](http://www.ucsf.edu/).
   San Francisco, CA 94143<br>
 
 </div>
@@ -21,14 +20,14 @@ group: contact
 
   <h4>John Anthony (Tony) Capra, Ph.D.</h4>
   Professor<br>
-  [Bakar Computational Health Sciences Institute] (https://bakarinstitute.ucsf.edu/) 
-  [Department of Epidemiology and Biostatistics] (https://epibiostat.ucsf.edu/)
+  [Bakar Computational Health Sciences Institute](https://bakarinstitute.ucsf.edu/) 
+  [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu/)
   San Francisco, CA 94143<br>
   email: tony [at] capralab [dot] org <br>
   
 </div>
 
-# Join the Capra Lab
+## Join the Capra Lab
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
 
 We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Tony](/contact).
