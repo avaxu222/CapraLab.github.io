@@ -19,7 +19,7 @@
   group: news
 
 - name: philosophy
-  link: "/philopsphy"
+  link: "/philosophy"
   group: philosophy
 
 - name: contact
