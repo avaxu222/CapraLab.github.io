@@ -1,5 +1,5 @@
 ---
-title: Research in the Fraser Lab
+title: Research in the Capra Lab
 layout: default
 group: research
 ---
@@ -7,9 +7,14 @@ group: research
 <div class="row">
 
 # Our research
-The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. We seek to quantify how these perturbations impact protein function and organismal fitness. We are best known for creating multitemperature X-ray data collection approaches, which are especially powerful when paired with multiconformer computational modeling to reveal otherwise inaccessible features of conformational ensembles. Our group integrates high resolution structural biology (X-ray, EM, NMR), functional studies (deep mutational scanning, enzymology), and computation to study biological mechanisms and to improve protein engineering and small molecule discovery. Group members move fluidly between computation and experiment, often inventing new methods to answer their questions.
+TThe main goals of our research program are to understand how evolutionary processes have shaped human genomes and to quantify the functional relevance of specific genetic differences between individual humans and closely related species. Achieving these goals is critically important to answering fundamental questions about human evolution and to the application of genomics in clinical settings.
 
-#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+We address these questions by applying algorithms and statistical models to ancient and modern genomes. We integrate large-scale genome-wide genotype and phenotype data, including electronic health record data. We also collaborate closely with clinicians and disease-focused biologists, in particular in the Undiagnosed Diseases Network and the March of Dimes Prematurity Research Center.
+
+We have three specific research foci.
+  Modeling the genetics of recent human evolution and disease
+  Using machine learning to interpret gene regulatory “programs” encoded in genomes
+  Integrating population genetics and structural biology to enable personalized exome interpretation
 <br>
 <br>
 
@@ -17,7 +22,7 @@ The long-term goals of our research are to understand how protein conformational
 
 <div class="row">
 
-### Identifying hidden alternative conformations of proteins and ligands in biophysical data
+<!-- ### Identifying hidden alternative conformations of proteins and ligands in biophysical data
 
 <div class="col-md-7 order-md-1">
 
@@ -95,4 +100,4 @@ Our long-term goal is to increase the information content of every X-ray diffrac
 <img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
 </div>
 
-</div>
+</div> -->
