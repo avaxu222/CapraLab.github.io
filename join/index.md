@@ -1,14 +1,13 @@
 ---
-title: Join the Fraser Lab
+title: Join the Capra Lab
 layout: default
 group: join
 ---
 
-# Join the Fraser Lab
+# Join the Capra Lab
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
-##### Read more about [our lab compact and philosophy.](/compact/)
 
-We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. James Fraser](/contact).
+We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Tony](/contact).
 
 <!-- Currently we have **open positions** for people with the following skills:
 [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
@@ -20,7 +19,7 @@ At UCSF, students can apply to a single [graduate program](https://graduate.ucsf
 
  As the 3rd rotation period comes to a close, we will talk with the year's rotation students (at least those who remain interested!) about joining the lab.  During this period, we encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. Because we are a member of multiple graduate programs with different policies and timings for final lab decision making, we cannot make any final commitments until the end of the Spring Quarter to ensure all rotations students are given consideration.
 
-##### The Fraser Lab participates in the following UCSF graduate programs:
+##### The Capra Lab participates in the following UCSF graduate programs:
   * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.
   * **[Chemistry and Chemical Biology](http://ccb.ucsf.edu/)**: The Chemistry and Chemical Biology Graduate Program (CCB) at the University of California, San Francisco (UCSF) prepares scientists to address problems at the intersection of chemistry and biology by providing a chemical foundation for understanding complex biological processes at an atomic level.
   * **[Pharmaceutical Sciences and Pharmacogenomics](http://pspg.ucsf.edu/)**: The Pharmaceutical Sciences and Pharmacogenomics (PSPG) Graduate Program at the University of California, San Francisco (UCSF) focuses on how to develop effective drug therapies for patients that have a minimum of adverse effects.
@@ -28,7 +27,7 @@ At UCSF, students can apply to a single [graduate program](https://graduate.ucsf
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to [Dr. James Fraser](/contact). We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to [Tony](/contact). We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
 
 ## Other Visitors
 
