@@ -1,6 +1,6 @@
 ---
 title: Capra Lab
-layout: default
+layout: home
 group: home
 ---
 
