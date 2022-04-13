@@ -10,7 +10,7 @@ position: Graduate student
 pronouns: he/him/his #personal pronouns
 email: souhrid [dot] mukherjee [at] vanderbilt [dot] edu  #Preferred public email address
 scholar: 59gkka0AAAAJ #Google Scholar User ID
-website: souhridm.github.io
+website: https://souhridm.github.io
 UCSF: XXXXXXXX #UCSF Profile ID - Employees only
 twitter: 
 linkedin: souhrid-mukherjee-bb550872
