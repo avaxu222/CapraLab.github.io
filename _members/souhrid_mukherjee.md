@@ -11,7 +11,7 @@ pronouns: he/him/his #personal pronouns
 email: souhrid [dot] mukherjee [at] vanderbilt [dot] edu  #Preferred public email address
 scholar: 59gkka0AAAAJ #Google Scholar User ID
 website: https://souhridm.github.io
-UCSF: XXXXXXXX #UCSF Profile ID - Employees only
+UCSF: 
 twitter: 
 linkedin: souhrid-mukherjee-bb550872
 github: souhridm
