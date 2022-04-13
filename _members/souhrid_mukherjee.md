@@ -2,7 +2,7 @@
 name: Souhrid Mukherjee
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2017-05-01]
-enddate: [2023-09-01]
+enddate: [2022-09-01]
 image: ../static/img/member_photos/grad/current/Souhrid/mukherjee_souhrid.jpg #365 x 365 pixels, 72 dpi
 altimage: ../static/img/member_photos/grad/current/Souhrid/mukherjee_souhrid.jpg #365 x 365 pixels, 72 dpi
 position: Graduate student
