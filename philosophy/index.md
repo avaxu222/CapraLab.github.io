@@ -1,7 +1,7 @@
 ---
 title: Capra Lab Philosophy
 layout: default
-group: philosophy
+group: compact
 ---
 
 # Lab Philosophy
