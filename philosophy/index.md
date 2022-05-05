@@ -7,7 +7,7 @@ group: philosophy
 # Lab Philosophy
 
 <div class="accordion" id="accordionCompact">
-{% for item in site.data.philosophy %}
+{% for item in site.data.compact %}
 <!-- Item Block -->
 <div class="card">
 <div class="card-header" id="heading{{item.id}}">
