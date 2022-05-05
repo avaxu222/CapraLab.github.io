@@ -19,8 +19,7 @@
 #Leave PMID and PMCID blank until an ID is assigned.
 #Do not include additional subsections that are not relevant to a publication (PDB, data, Zenodo, etc).
 
-#Example Publication
----
+
 title: "The phenotypic legacy of admixture between modern humans and Neandertals"
 authors: "**Corinne N. Simonti**, Benjamin Vernot, Lisa Bastarache, Erwin Bottinger,
 David S. Carrell, Rex L. Chisholm, David R. Crosslin, Scott J. Hebbring,
@@ -35,25 +34,6 @@ pmcid: "PMC#######"
 biorxiv: "YYYY.MM.DD.######"
 biorxiv_version: "YYYY.MM.DD.######v1"
 pdf: "/static/pdfs/2016-02-12-simonti-et-al.pdf"
-pdbs:
-  - "PDB_ID"
-paired_maps_and_models:
-  - pdb: "PDB_ID"
-    emdb: "#####"
-paired_maps_and_models_and_data:
-  - pdb: "PDB_ID"
-    emdb: "#####"
-    empiar: "#####"
-data:
-  - ""
-zenodo:
-  - code: ""
-    description: ""
-github:
-  - description: ""
-    url: ""
-links:
-  - name: ""
-    url: ""
+
 
 ---
