@@ -1,10 +1,10 @@
 ---
-title: Capra Lab Philosophy
+title: Capra Lab philosophy
 layout: default
 group: compact
 ---
 
-# Capra Lab Philosophy
+# Lab Manual
 
 <div class="accordion" id="accordionCompact">
 {% for item in site.data.compact %}
@@ -25,4 +25,3 @@ group: compact
 <!-- End  block -->
 {% endfor %}
 </div>
-
