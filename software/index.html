@@ -6,13 +6,9 @@ group: software
 
 <h1>Capra Lab Software</h1>
 
-<!-- The Fraser lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
-<h5>See our<a href="/philosophy/"> lab philosophy and philosophy</a>.</h5> -->
-
 {% for software in site.software %}
 
 <hr>
-<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{software.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
         {% if software.website %}
