@@ -3,11 +3,10 @@ title: Capra Lab Philosophy
 layout: default
 group: compact
 ---
-
 # Capra Lab Philosophy
 
 <div class="accordion" id="accordionCompact">
-{% for item in site.data.compact %}
+{% for item in site.philosophy %}
 <!-- Item Block -->
 <div class="card">
 <div class="card-header" id="heading{{item.id}}">

@@ -1,0 +1,6 @@
+---
+title: 'Welcome'
+id: "welcome"
+show: True
+body: "Welcome to the Capra Lab! We are a diverse group of scientists who are passionate about using computational tools to figure out how the world works. We are also committed to sustaining a supportive environment that promotes the success of all members. We are very pleased that you have joined us. We hope you will develop deep knowledge of genetics, evolution, computer science, statistics, and many other topics while developing skills (programming, data analysis, writing, oral presentations) that will serve you well for the rest of your career. We also hope that you make new friends, challenge yourself, and have fun along the way. This lab manual is a living document that will change and grow to fit the needs and experiences of the lab. It borrows heavily from several other labs’ manuals (e.g., from here). If you have ideas about things to add or clarify, please let Tony know. When you join the lab, you are required to read this manual and sign the form on the final page indicating that you have done so. This lab manual is licensed under a Creative Commons Attribution - NonCommercial 4.0 International License. If you are a PI or a trainee in a different lab and want to write your own lab manual, feel free to take inspiration (or text) from this one with proper attribution."
+---
