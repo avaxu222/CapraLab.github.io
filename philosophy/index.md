@@ -3,12 +3,8 @@ title: Capra Lab philosophy
 layout: default
 group: compact
 ---
-<<<<<<< HEAD
-# Capra Lab Philosophy
-=======
 
-# Lab Manual
->>>>>>> e34326c5e7234446c068dc0d9ce6f4260eb3632f
+# Capra Lab Philosophy
 
 <div class="accordion" id="accordionCompact">
 {% for item in site.philosophy %}
