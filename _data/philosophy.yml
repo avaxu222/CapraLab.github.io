@@ -10,7 +10,7 @@
 
 - title: Capra Lab goals
   id: "goals"
-  show: True
+  show: False
   body:
     Our fundamental goal is to advance understanding of how the world works. In particular, we study how genomes evolve and function. We believe that the best way to pursue this goal is through open and welcoming scientific practices that engage with diverse perspectives. Thus, mentoring and training one another is an essential component of our mission, along with the communication of our results to broad audiences beyond specialists.
 
