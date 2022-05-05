@@ -1,7 +1,7 @@
 ---
 title: "Identifying digenic disease genes via machine learning in the Undiagnosed Diseases Network"
 authors: "**Souhrid Mukherjee**, Joy D Cogan, John H Newman, John A Phillips 3rd, Rizwan Hamid, 
-Undiagnosed Diseases Network, Jens Meiler&#42, John A. Capra1&#42;"
+Undiagnosed Diseases Network, Jens Meiler&#42;, John A. Capra1&#42;"
 journal: "American JOurnal of Human Genetics (AJHG)"
 pub_date: "2021-10-07" 
 image: "/static/img/pub/2021-10-07-mukherjee-et-al.png" 
