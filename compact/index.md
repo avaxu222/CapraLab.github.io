@@ -4,7 +4,7 @@ layout: default
 group: compact
 ---
 
-# Lab Philosophy
+# Capra Lab Philosophy
 
 <div class="accordion" id="accordionCompact">
 {% for item in site.data.compact %}
