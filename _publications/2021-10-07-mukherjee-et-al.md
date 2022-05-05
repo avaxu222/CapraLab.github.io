@@ -13,7 +13,7 @@ github:
   url: "https://github.com/CapraLab/DiGePred"
   links:
 - name: "Meiler lab"
-  url: "http://www.meilerlab.org"
+  url: "http://www.meilerlab.org/index.php/servers/show?s_id=28"
 - name: "Undiagnosed Diseases Network"
   url: "http://udnconnect.org"
 ---
