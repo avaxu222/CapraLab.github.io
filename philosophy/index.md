@@ -4,12 +4,10 @@ layout: default
 group: philosophy
 ---
 
-{% include carousel.html height="40" unit="%" duration="5" filter="img/members/drawings/members/" controlposition="90%" indicatorposition="90%" %}
-
 # Lab Philosophy
 
 <div class="accordion" id="accordionCompact">
-{% for item in site.data.lab_philosophy %}
+{% for item in site.data.philosophy %}
 <!-- Item Block -->
 <div class="card">
 <div class="card-header" id="heading{{item.id}}">
