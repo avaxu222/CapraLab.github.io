@@ -23,8 +23,8 @@
   group: news
 
 - name: philosophy
-  link: "/philosophy"
-  group: philosophy
+  link: "/compact"
+  group: compact
 
 - name: contact
   link: "/contact"
