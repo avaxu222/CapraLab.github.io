@@ -2,7 +2,7 @@
 name: Abin Abraham
 timeline_name: Abin
 startdate: [2016-07-01]
-enddate: [2021-05-01]
+enddate: [present]
 image: /static/img/member_photos/grad/alumni/Abin/abin_abraham.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/member_photos/grad/alumni/Abin/abin_abraham_alt.png #365 x 365 pixels, 72 dpi
 position: former graduate student
