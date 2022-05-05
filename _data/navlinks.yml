@@ -1,4 +1,4 @@
-- name: home
+ - name: home
   link: "/"
   group: home
   
