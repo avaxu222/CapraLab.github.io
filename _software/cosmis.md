@@ -1,7 +1,7 @@
 ---
 name: 'COSMIS'
 year: 2022
-pdf: ''
+pdf: '/static/pdfs/2021-09-15-li-et-al.pdf'
 email: 'bian.li@vanderbilt.edu'
 pmid: 'XXXXXXXXXXXX'
 website: 'http://cosmis-app.herokuapp.com/'

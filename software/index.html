@@ -11,57 +11,31 @@ group: software
 
 {% for member in site.software %}
 
-{% unless member.enddate == empty %}
-{% continue %}
-{% endunless %}
+<hr>
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id = "{{software.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+        {% if member.website %}
+          <a style="overflow-wrap: break-word;" href= "{{software.website}}">{{member.website}}</a> <br>
+        {% endif %}
 
-{% if member.position contains "Affiliate" %}
-{% continue %}
-{% endif %}
+        {% if software.pmid %}
+        <li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{mem.pmid}}" title = "PubMed: {{publication.pmid}} (opens in new tab)" target="_blank"> {{publication.pmid}}</a></li>
+        {% endif %}
 
-        <hr>
-        <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-        <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-            <div class="col-sm-4">
-                <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
-                <strong>{{member.name}}</strong> <br>
-                {% if member.pronouns %}
-                  <em>{{member.pronouns}}</em> <br>
-                {% endif %}
-                {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
-                <em>{{member.email}}</em> <br>
-                {% if member.website %}
-                  <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
-                {% endif %}
-                {% if member.orcid %}
-                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logos/orcid_logo.svg"></a>
-                  <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
-                {% endif %}
-                {% if member.linkedin %}
-                  <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logos/linkedin_logo.svg"></a>
-                  <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
-                {% endif %}
-                {% if member.UCSF %}
-                  <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/static/img/logo/ucsf_logo_black.svg"></a>
-                  <a href= "http://profiles.ucsf.edu/{{member.UCSF}}"> Profile </a> <br>
-                {% endif %}
-                {% if member.scholar %}
-                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logos/gscholar_logo.svg"></a>
-                  <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
-                {% endif %}
-                {% if member.twitter %}
-                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logos/twitter_logo.svg"></a>
-                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
-                {% endif %}
-                {% if member.github %}
-                  <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logos/github_logo.svg"></a>
-                  <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
-                {% endif %}
-            </div>
-            <div class="col-sm-8">
-                <p class="text-justify">{{member.description | markdownify}}</p>
-            </div>
-        </div>
+        {% if software.github %}
+          <a href= "{{software.github}}"> {{member.github}} </a> <br>
+        {% endif %}
+
+        <!-- PDF -->
+        {% if publication.journal %}
+        <li><a href="{{software.pdf}}" title =  "PDF for {{software.name}} (opens in new tab)" target="_blank"> Full Text</a></li>
+        {% endif %}
+    </div>
+    <div class="col-sm-8">
+        <p class="text-justify">{{member.description | markdownify}}</p>
+    </div>
+</div>
 {% endfor %}
 <hr>
 <h4>Affiliates</h4>
