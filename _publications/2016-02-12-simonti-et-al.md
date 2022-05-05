@@ -9,8 +9,5 @@ journal: "Science"
 pub_date: "2016-02-12" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/2016-02-12-simonti-et-al.png" #Minimum dimensions of
 pmid: "26912863"
-pmcid: "PMC#######"
-biorxiv: "YY-YY.MM.DD.######"
-biorxiv_version: "YYYY.MM.DD.######v1"
 pdf: "/static/pdfs/2016-02-12-simonti-et-al.pdf"
 ---
