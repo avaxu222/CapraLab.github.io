@@ -33,14 +33,3 @@ group: software
     </div>
 </div>
 {% endfor %}
-<hr>
-<h4>Affiliates</h4>
-{% for software in site.softwares %}
-
-{% unless software.enddate == empty %}
-{% continue %}
-{% endunless %}
-
-{% unless software.position contains "Affiliate" %}
-{% continue %}
-{% endunless %}
