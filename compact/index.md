@@ -1,9 +1,14 @@
 ---
-title: Capra Lab Philosophy
+title: Capra Lab philosophy
 layout: default
 group: compact
 ---
+<<<<<<< HEAD
 # Capra Lab Philosophy
+=======
+
+# Lab Manual
+>>>>>>> e34326c5e7234446c068dc0d9ce6f4260eb3632f
 
 <div class="accordion" id="accordionCompact">
 {% for item in site.philosophy %}
@@ -24,4 +29,3 @@ group: compact
 <!-- End  block -->
 {% endfor %}
 </div>
-
