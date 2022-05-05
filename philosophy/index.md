@@ -7,7 +7,7 @@ group: compact
 # Capra Lab Philosophy
 
 <div class="accordion" id="accordionCompact">
-{% for item in site.compact %}
+{% for item in site.data.philosophy %}
 <!-- Item Block -->
 <div class="card">
 <div class="card-header" id="heading{{item.id}}">

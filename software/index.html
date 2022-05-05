@@ -6,7 +6,7 @@ group: software
 
 <h1>Capra Lab Software</h1>
 
-{% for software in site.software %}
+{% for software in site.software reversed | sort: "year" %}}
 
 <hr>
 <div id = "{{software.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
