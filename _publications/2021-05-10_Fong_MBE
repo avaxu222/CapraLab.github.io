@@ -10,7 +10,7 @@ biorxiv: "2020.08.04.######"
 pdf: "/static/pdfs/publications/2021-05-10_fong_mbe.pdf"
 
 github:
-  - description: "enhancer sequence ages"
+  - description: "enhancer sequence age repository"
     url: "https://github.com/slifong08/enh_ages/tree/master/MBE_seq_age_arch"
 links:
   - name: "hg19 46-way sequence ages zenodo"
