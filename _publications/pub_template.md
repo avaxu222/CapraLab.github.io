@@ -14,7 +14,7 @@
 #For readability of code, start a new line at 140 characters.
 
 #Images and PDFs
-#All images and PDFs should be named using the following convention: firstauthorsurname_YYYY
+#the pub md entry and asscoiated images and PDFs should be named using the following convention: yyyy-mm-dd_FALN_journal.md/pdf/png
 
 #Leave PMID and PMCID blank until an ID is assigned.
 #Do not include additional subsections that are not relevant to a publication (PDB, data, Zenodo, etc).
