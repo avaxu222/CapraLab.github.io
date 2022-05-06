@@ -3,7 +3,7 @@ name: Erin Gilbertson
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2021-03-15]
 enddate: [YYYY-MM-DD]
-image: ../static/img/member_photos/grad/current//gilbertson.jpg #365 x 365 pixels, 72 dpi
+image: ../static/img/member_photos/grad/current/gilbertson.jpg #365 x 365 pixels, 72 dpi
 altimage: ../static/img/member_photos/grad/current/gilbertson_pb.jpg #365 x 365 pixels, 72 dpi
 position: PhD Student
 #subsequent:  update once you become an alumnus
