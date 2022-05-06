@@ -1,6 +1,6 @@
 ---
 title: "The 3D spatial constraint on 6.1 million amino acid sites in the human proteome"
-authors: "**Bian Li**, Dan M. Roden, John A. Capra&#42;"
+authors: "**Bian Li**, Dan M. Roden, John A. Capra"
 journal: "bioRxiv"
 pub_date: "" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/2021-09-15_li_biorxiv.png" #Minimum dimensions of
