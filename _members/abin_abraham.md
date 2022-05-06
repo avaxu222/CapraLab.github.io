@@ -8,7 +8,7 @@ altimage: /static/img/member_photos/grad/alumni/Abin/abin_abraham_alt.png #365 x
 position: former graduate student
 subsequent:  Resident at Childrens' Hospital of Philadelphia
 pronouns: he/him/his #personal pronouns
-email: abin.abraham@vanderbil.edu
+email: abin.abraham@vanderbilt.edu
 scholar: Lps8M5MAAAAJ #Google Scholar User ID
 #website: https://website.com/
 #UCSF: XXXXXXXX #UCSF Profile ID - Employees only
