@@ -3,11 +3,11 @@ title: "Modeling the Evolutionary Architectures of Transcribed Human Enhancer Se
 authors: "**Sarah L. Fong**, John A. Capra&#42;"
 journal: "Molecular Biology and Evolution"
 pub_date: "2021-05-10" #Date of journal publication, NOT BIORXIV UPLOAD
-image: "/static/img/pub/2021_FongSarah.png" #Minimum dimensions of
+image: "/static/img/pub/2021-05-10_fong_mbe.pdf" #Minimum dimensions of
 pmid: "33973014"
 pmcid: "PMC8382917"
 biorxiv: "2020.08.04.######"
-pdf: "/static/pdfs/publications/2021_FongSarah.pdf"
+pdf: "/static/pdfs/publications/2021-05-10_fong_mbe.pdf"
 
 github:
   - description: "enhancer sequence ages"
