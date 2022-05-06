@@ -7,7 +7,7 @@ Marylyn D. Ritchie, Dan M. Roden, Shefali S. Verma, Gerard Tromp,
 Jeffrey D. Prato, William S. Bush, Joshua M. Akey, Joshua C. Denny, John A. Capra&#42;"
 journal: "Science"
 pub_date: "2016-02-12" #Date of journal publication, NOT BIORXIV UPLOAD
-image: "/static/img/pub/2016-02-12-simonti-et-al.png" #Minimum dimensions of
+image: "/static/img/pub/2016-02-12_simonti_science.png" #Minimum dimensions of
 pmid: "26912863"
-pdf: "/static/pdfs/2016-02-12-simonti-et-al.pdf"
+pdf: "/static/pdfs/2016-02-12_simonti_science.pdf"
 ---
