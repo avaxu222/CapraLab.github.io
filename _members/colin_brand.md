@@ -1,5 +1,5 @@
 ---
-name: Colin brand
+name: Colin Brand
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2021-09-01]
 enddate: []
@@ -16,5 +16,5 @@ twitter: colinmbrand
 linkedin: username
 github: brandcm
 orcid: 0000-0002-6881-8074
-description: ""
+description: "Colin is an evolutionary genomicist and studies evolutionary processes and the molecular underpinnings of phenotypic differences among humans, archaic hominins, and non-human primates. He received his PhD in Anthropology from the University of Oregon in 2021."
 ---
