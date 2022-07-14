@@ -14,5 +14,5 @@ twitter: avamissxu
 linkedin: -ava-xu
 github: avaxu222
 orcid: 0000-0002-9222-1227
-description: "Ava Xu is a Ph.D. student in the Pharmaceutical Sciences and Pharmacogenomics Program and holds a Pharm.D. from Chapman University. She is interested in developing methodology that incorporates pharmacogenomics data to better predict Pharmacokinetic-Pharmacodynamic parameters. Ultimately, the goal is to use such models to provide personalized recommendations for patients and to guide clinical trial designs. Outside of research, she enjoys hiking and trying out new restaurants."
+description: "Ava Xu is a Ph.D. student in the Pharmaceutical Sciences and Pharmacogenomics Program and holds a Pharm.D. from Chapman University. She is interested in incorporating pharmacogenomics data to better predict Pharmacokinetic-Pharmacodynamic parameters. Ultimately, the goal is to use such models to provide personalized recommendations for patients and to guide clinical trial designs. Outside of research, she enjoys hiking and trying out new restaurants."
 ---
